@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahfuz</h1>
 <h3 align="center">passionate web developer</h3>
 
-- 🔭 I’m currently learning - Ruby on rails 
+- 🌱 I’m currently learning - Ruby on rails 
 - 🔭 I’m currently working on [Mat-React](https://github.com/mat-react/mat-react)
 
 - 💬 Ask me about **Javascript, React**
