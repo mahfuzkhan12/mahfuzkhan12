@@ -26,12 +26,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mahfuzkhan12&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="44%" height="100%" alt="Github STat"/>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=mahfuzkhan12&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="46.7%" height="100%" alt="Github STat"/>
 </div>
-
-
-
-<div align="center">
-  <a href="https://leetcode.com/mahfuz12">
-    <img src="https://leetcard.jacoblin.cool/mahfuz12?theme=dark&font=Poppins&ext=activity" width="40%" />
-  </a>
-</div>
-
